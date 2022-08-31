@@ -1,1 +1,1 @@
-script to Display the contents list of your current directory
+script to display the conents list of ypur current directory
