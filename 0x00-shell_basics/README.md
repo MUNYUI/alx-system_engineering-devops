@@ -1,1 +1,1 @@
-script to display the conents list of ypur current directory
+Write a script that prints the type of the file named
