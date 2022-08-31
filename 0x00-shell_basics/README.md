@@ -1,1 +1,5 @@
-Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+
+
+You are only allowed to use two spaces (and lines) in your script, not more.
