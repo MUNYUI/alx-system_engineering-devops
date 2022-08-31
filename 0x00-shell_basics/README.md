@@ -1,1 +1,1 @@
-More on Shell basics.
+Script Display the contents list of your current directory.
